@@ -1,5 +1,5 @@
 # ref: https://docs.getpelican.com/en/latest/tips.html#publishing-to-github-pages-using-a-custom-github-actions-workflow
-name: deploy to github pages
+name: deploy-site
 on:
   push:
     branches: ["main"]
