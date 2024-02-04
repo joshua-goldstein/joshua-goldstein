@@ -1,6 +1,7 @@
 AUTHOR = 'Joshua Goldstein'
 SITENAME = 'Joshua Goldstein'
-SITEURL = 'https://joshua-goldstein.io'
+# configured by github action deployment
+# SITEURL = 'https://joshua-goldstein.io'
 
 PATH = "content"
 
